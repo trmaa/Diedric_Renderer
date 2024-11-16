@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I./include",
+      "-o",
+      "./bin/%.o",
+      "./src/main.cpp"
+    ],
+    "directory": "/home/pablo/Automatic_Diedric",
+    "file": "/home/pablo/Automatic_Diedric/src/main.cpp",
+    "output": "/home/pablo/Automatic_Diedric/bin/%.o"
+  }
+]
